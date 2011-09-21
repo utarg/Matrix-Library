@@ -1,0 +1,4 @@
+These files are useful when you do matrix-operation by ARM microcomputers, 
+such as OMAP3530 (which can do vector operations) in environment of android-SDK.
+
+(c)2011 The University of Tokyo Avionics Research Group 
